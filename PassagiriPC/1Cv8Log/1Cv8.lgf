@@ -9,4 +9,6 @@
 {4,"_$Session$_.Start",2},
 {4,"_$InfoBase$_.RestoreStart",3},
 {4,"_$Session$_.Finish",4},
-{4,"_$InfoBase$_.RestoreFinish",5}
+{4,"_$InfoBase$_.RestoreFinish",5},
+{3,"1CV8C",2},
+{4,"_$InfoBase$_.ConfigUpdate",6}
